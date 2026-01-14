@@ -26,5 +26,6 @@ void bagi ()
 
 tambah();
 kurang();
+tambah();
 kali();
 bagi();
